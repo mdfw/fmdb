@@ -8,3 +8,8 @@ FOUNDATION_EXPORT const unsigned char FMDBVersionString[];
 #import "FMDatabaseAdditions.h"
 #import "FMDatabaseQueue.h"
 #import "FMDatabasePool.h"
+
+#if FMDB_INCLUDE_FTS
+#import "FMDATABASE+FTS3.h"
+#import "FMTokenizers.h"
+#endif
