@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "34384FAE1D25A98E00B29202"
-               BuildableName = "FMDB MacOS + FTS.framework"
+               BuildableName = "FMDB.framework"
                BlueprintName = "FMDB MacOS + FTS"
                ReferencedContainer = "container:fmdb.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "34384FAE1D25A98E00B29202"
-            BuildableName = "FMDB MacOS + FTS.framework"
+            BuildableName = "FMDB.framework"
             BlueprintName = "FMDB MacOS + FTS"
             ReferencedContainer = "container:fmdb.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "34384FAE1D25A98E00B29202"
-            BuildableName = "FMDB MacOS + FTS.framework"
+            BuildableName = "FMDB.framework"
             BlueprintName = "FMDB MacOS + FTS"
             ReferencedContainer = "container:fmdb.xcodeproj">
          </BuildableReference>

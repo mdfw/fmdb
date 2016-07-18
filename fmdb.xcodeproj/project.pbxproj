@@ -36,6 +36,12 @@
 		34384FDB1D25AA3800B29202 /* FMDatabase+FTS3.m in Sources */ = {isa = PBXBuildFile; fileRef = CCA66A2919C0CB1900EFDAC1 /* FMDatabase+FTS3.m */; };
 		34384FDC1D25AA3C00B29202 /* FMTokenizers.m in Sources */ = {isa = PBXBuildFile; fileRef = CCA66A2B19C0CB1900EFDAC1 /* FMTokenizers.m */; };
 		34384FDD1D25AA3D00B29202 /* FMTokenizers.m in Sources */ = {isa = PBXBuildFile; fileRef = CCA66A2B19C0CB1900EFDAC1 /* FMTokenizers.m */; };
+		346B63EA1D3D543900232B3E /* FMDatabase+FTS3.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2819C0CB1900EFDAC1 /* FMDatabase+FTS3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		346B63EB1D3D544800232B3E /* FMTokenizers.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2A19C0CB1900EFDAC1 /* FMTokenizers.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		346B63EC1D3D545100232B3E /* fts3_tokenizer.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2C19C0CB1900EFDAC1 /* fts3_tokenizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		346B63ED1D3D546600232B3E /* FMDatabase+FTS3.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2819C0CB1900EFDAC1 /* FMDatabase+FTS3.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		346B63EE1D3D546600232B3E /* FMTokenizers.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2A19C0CB1900EFDAC1 /* FMTokenizers.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		346B63EF1D3D546600232B3E /* fts3_tokenizer.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA66A2C19C0CB1900EFDAC1 /* fts3_tokenizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		40A145FE1BE5759400E5D35E /* FMDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC24EBA0A13E34D00A6D3E3 /* FMDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		40A146001BE575D000E5D35E /* FMDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC24EBA0A13E34D00A6D3E3 /* FMDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		40A146011BE575D600E5D35E /* FMResultSet.h in Headers */ = {isa = PBXBuildFile; fileRef = CCC24EBF0A13E34D00A6D3E3 /* FMResultSet.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -454,6 +460,9 @@
 				34384FBB1D25A98E00B29202 /* FMDatabaseQueue.h in Headers */,
 				34384FBC1D25A98E00B29202 /* FMDatabaseAdditions.h in Headers */,
 				34384FBD1D25A98E00B29202 /* FMDatabasePool.h in Headers */,
+				346B63EA1D3D543900232B3E /* FMDatabase+FTS3.h in Headers */,
+				346B63EB1D3D544800232B3E /* FMTokenizers.h in Headers */,
+				346B63EC1D3D545100232B3E /* fts3_tokenizer.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +476,9 @@
 				34384FD11D25A9B200B29202 /* FMDatabaseQueue.h in Headers */,
 				34384FD21D25A9B200B29202 /* FMDatabaseAdditions.h in Headers */,
 				34384FD31D25A9B200B29202 /* FMDatabasePool.h in Headers */,
+				346B63ED1D3D546600232B3E /* FMDatabase+FTS3.h in Headers */,
+				346B63EE1D3D546600232B3E /* FMTokenizers.h in Headers */,
+				346B63EF1D3D546600232B3E /* fts3_tokenizer.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
